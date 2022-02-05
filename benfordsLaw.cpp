@@ -1,4 +1,4 @@
-/*Name: Natnael Gebremariam, 5002150850, CS 202-1001, Assignment 1
+/*
 Description: The program will use Io/File to read a file and 
 using the first digit account for them, printing an outfile 
 with * to show how many of that number are starters in the file
